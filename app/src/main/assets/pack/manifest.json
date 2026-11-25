@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Shadow Client",
+    "description": "Paquete de recursos inicial de Shadow Client para Bedrock.",
+    "uuid": "a1e67f5d-8d1b-4c26-9b2a-3f48d4c2b8a1",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "b2f78a6e-9e2c-4d37-ac3b-4a59e5d3c9b2",
+      "version": [1, 0, 0]
+    }
+  ]
+}
